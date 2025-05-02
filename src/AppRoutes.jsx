@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router";
 import App from "./App";
 import Products from "./components/ProductsGrid/Products";
-import Orders from "./components/OrdersGrid/Orders";
+import Orders from "./pages/Orders";
 
 const AppRoutes = () => {
   return (
