@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router";
 import App from "./App";
-import Products from "./components/ProductsGrid/Products";
+import Products from "./pages/Products";
 import Orders from "./pages/Orders";
 
 const AppRoutes = () => {
