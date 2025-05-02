@@ -1,5 +1,5 @@
 const App = () => {
-  return <div>Init Monolithic-Fe</div>;
+  return <div className="text-red-500">Init Monolithic-Fe</div>;
 };
 
 export default App;
