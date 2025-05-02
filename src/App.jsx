@@ -1,5 +1,11 @@
+import { Outlet } from "react-router";
+
 const App = () => {
-  return <div className="text-red-500">Init Monolithic-Fe</div>;
+  return (
+    <div>
+      <Outlet />
+    </div>
+  );
 };
 
 export default App;
