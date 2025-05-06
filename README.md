@@ -11,7 +11,7 @@ More details about the application will be documented soon. However, an overview
 _⚠ Please follow the order of the following instructions_ 
 
 ### Pre-requistes
-- If you do not have the backend installed and running yet, please follow the instructions provided through [this link]([https://github.com/Haggag-dev/SeCBP.back-end?tab=readme-ov-file](https://github.com/Haggag-dev/SeCBP.back-end?tab=readme-ov-file#instructions-for-running-the-back-end)) before proceeding further.
+- If you do not have the backend installed and running yet, please follow the instructions provided through [this link](https://github.com/Haggag-dev/SeCBP.back-end?tab=readme-ov-file#instructions-for-running-the-back-end) before proceeding further.
 - [Install pnpm.](https://pnpm.io/installation)
 
 ### Running the Application
