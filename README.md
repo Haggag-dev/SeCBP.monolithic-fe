@@ -19,7 +19,7 @@ _⚠ Please follow the order of the following instructions_
 1. Clone this repository: https://github.com/Haggag-dev/SeCBP.monolithic-fe
 2. Then execute the following commands:
 ```sh
-  cd monolithic-fe
+  cd SeCBP.monolithic-fe
   pnpm i
   docker compose -p monolithic-fe up
 ```
