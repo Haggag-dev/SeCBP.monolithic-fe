@@ -20,7 +20,11 @@ _⚠ Please follow the order of the following instructions_
 2. Then execute the following commands:
 ```sh
   cd SeCBP.monolithic-fe
+
   pnpm i
+
+  pnpm build
+
   docker compose -p monolithic-fe up
 ```
 
