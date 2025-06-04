@@ -2,9 +2,7 @@
 
 This is the monolithic frontend (`monolithic-fe`) of my bachelor/graduation project.
 
-# Application
-
-More details about the application will be documented soon. However, an overview of the entire application, including more details on the backend, is already available [here](https://github.com/Haggag-dev/SeCBP.back-end?tab=readme-ov-file#bachelorgraduation-project).
+An overview of the entire application, including more details on the backend, is already available [here](https://github.com/Haggag-dev/SeCBP.back-end?tab=readme-ov-file#bachelorgraduation-project).
 
 ## Instruction for Running the Frontend
 
